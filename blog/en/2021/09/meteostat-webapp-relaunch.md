@@ -1,5 +1,5 @@
 ---
-category: meteostat
+topic: Meteostat
 author: Christian Lamprecht
 cover: https://media.meteostat.net/blog/stock/fall-woods.jpg
 excerpt: Meteostat launches with a completely overhauled web app.

@@ -13,7 +13,7 @@ The National Oceanic and Atmospheric Administration (NOAA) is doing a great job 
 
 I first noticed this fact while hearing about record-high temperatures on the news. From time to time the media is publishing stories about extraordinary weather events and climate reports. But I was wondering how I could do some research on climate statistics by myself. Soon, I realized that my possibilities were very limited.
 
-That is why I started developing Meteostat — a platform that makes weather and climate statistics available to everyone. Currently, the website provides access to historical weather observations of about 7,000 weather stations worldwide. Essentially, Meteostat collects weather and climate data from national weather services and exposes the data through a simple user interface to its audience.
+That is why I started developing Meteostat - a platform that makes weather and climate statistics available to everyone. Currently, the website provides access to historical weather observations of about 7,000 weather stations worldwide. Essentially, Meteostat collects weather and climate data from national weather services and exposes the data through a simple user interface to its audience.
 
 ![Daily precipitation totals in Houston, TX during hurricane Harvey in August 2017.](https://media.meteostat.net/stories/methodology-1.png "Daily precipitation totals in Houston, TX during hurricane Harvey in August 2017.")
 

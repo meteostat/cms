@@ -60,4 +60,4 @@ plt.show()
 
 The chart should look like that:
 
-![2018 Temperature Data for Vancouver](https://media.meteostat.net/stories/historical-weather-python-1.png "2018 Temperature Data for Vancouver")
+![2018 Temperature Data for Vancouver](https://media.meteostat.net/insights/historical-weather-python-1.png "2018 Temperature Data for Vancouver")

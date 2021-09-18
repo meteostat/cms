@@ -35,7 +35,7 @@ Now we can fetch a weather station which is located close to our point of intere
 
 ```
 # Get weather stations ordered by distance to Vancouver, BC
-stations = Stations(lat = 49.2497, lon = -123.1193, daily = datetime(2018, 1, 1))
+stations = Stations(lat = 49.2497, lon = -123.1193)
 # Fetch closest station (limit = 1)
 station = stations.fetch(1)
 ```
@@ -44,7 +44,11 @@ In this block we’re also specifying a daily parameter. By doing so we are maki
 
 ```
 # Get daily data for 2018 at the selected weather station
-data = Daily(station, start = datetime(2018, 1, 1), end = datetime(2018, 12, 31))
+data = Daily(
+  station,
+  start=datetime(2018, 1, 1),
+  end=datetime(2018, 12, 31)
+)
 # Fetch Pandas DataFrame
 data = data.fetch()
 ```

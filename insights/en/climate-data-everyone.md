@@ -1,5 +1,5 @@
 ---
-topic: Methodology
+topic: Meteostat
 author: Christian Lamprecht
 cover: https://media.meteostat.net/stock/fall-woods.jpg
 excerpt: Meteostat's goal is to provide weather and climate data for everyone.

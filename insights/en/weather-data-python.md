@@ -25,7 +25,7 @@ Enough of the preparation, let’s dive into the data. In this example we will u
 
 Let’s import some classes & functions, first:
 
-```
+```py
 from datetime import datetime
 import matplotlib.pyplot as plt
 from meteostat import Stations, Daily
@@ -33,7 +33,7 @@ from meteostat import Stations, Daily
 
 Now we can fetch a weather station which is located close to our point of interest. Simply pass a latitude and longitude to the nearby method:
 
-```
+```py
 # Get weather stations ordered by distance to Vancouver, BC
 stations = Stations(lat = 49.2497, lon = -123.1193)
 # Fetch closest station (limit = 1)
@@ -42,7 +42,7 @@ station = stations.fetch(1)
 
 In this block we’re also specifying a daily parameter. By doing so we are making sure, that the weather station did actually provide daily statistics in 2018. It’s not required but really makes sense it this case. After calling fetch() the station variable holds a Pandas DataFrame which contains meta information about the weather station we’ve selected. This DataFrame can be passed on to the Daily class for access to the actual weather data:
 
-```
+```py
 # Get daily data for 2018 at the selected weather station
 data = Daily(
   station,
@@ -55,7 +55,7 @@ data = data.fetch()
 
 `data` is now a Pandas DataFrame which contains one row per day (exception: time series might contain gaps). From now on, we can use Pandas methods on our DataFrame. In this example we will visualize the average, minimum and maximum temperatures in a line chart:
 
-```
+```py
 # Plot line chart including average, minimum and maximum temperature
 data.plot(y = ['tavg', 'tmin', 'tmax'], kind = 'line')
 # Show chart

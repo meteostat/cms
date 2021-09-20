@@ -1,9 +1,10 @@
 ---
 date: 2020-10-16
+evergreen: true
 topic: Developers
 author: Christian Lamprecht
 cover: https://media.meteostat.net/stock/explore.jpg
-excerpt: How to access and analyze historical weather data with Python.
+teaser: How to access and analyze historical weather data with Python.
 ---
 
 # Analyze Historical Weather Data with Python

@@ -1,6 +1,4 @@
 ---
-date: 2020-03-03
-evergreen: true
 topic: Meteostat
 author: Christian Lamprecht
 cover: https://media.meteostat.net/stock/fall-woods.jpg

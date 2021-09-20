@@ -1,6 +1,4 @@
 ---
-date: 2020-10-16
-evergreen: true
 topic: Developers
 author: Christian Lamprecht
 cover: https://media.meteostat.net/stock/explore.jpg

@@ -7,6 +7,8 @@ teaser: How to access and analyze historical weather data with Python.
 
 # Analyze Historical Weather Data with Python
 
+> This article uses an outdated version of Meteostat Python. Please check the [documentation](https://dev.meteostat.net/python/) for the latest version.
+
 Just one week after the release of our open weather station directory, we are now launching an official Meteostat Python library. The library will co-exist with our JSON API and provides a more flexible interface which targets the data science community. It’s build on top of the Meteostat bulk data interface and utilizes Pandas for data analysis. We invite everyone to test the 0.1.0 version of the Meteostat Python library. If that sounds interesting to you, keep reading this article and learn how to get started.
 
 ## Installation

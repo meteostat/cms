@@ -1,5 +1,6 @@
 ---
 topic: Developers
+date: 2020-10-16
 author: Christian Lamprecht
 cover: https://media.meteostat.net/stock/explore.jpg
 teaser: How to access and analyze historical weather data with Python.
@@ -66,4 +67,4 @@ plt.show()
 
 The chart should look like that:
 
-![2018 Temperature Data for Vancouver](https://media.meteostat.net/insights/vancouver-2018-temp.png "2018 Temperature Data for Vancouver")
+![2018 Temperature Data for Vancouver](https://media.meteostat.net/insights/2020/09/vancouver-2018-temp.png "2018 Temperature Data for Vancouver")

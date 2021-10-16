@@ -1,5 +1,6 @@
 ---
 topic: Meteostat
+date: 2020-09-03
 author: Christian Lamprecht
 cover: https://media.meteostat.net/stock/fall-woods.jpg
 teaser: Meteostat's goal is to provide weather and climate data for everyone.
@@ -15,7 +16,7 @@ I first noticed this fact while hearing about record-high temperatures on the ne
 
 That is why I started developing Meteostat - a platform that makes weather and climate statistics available to everyone. Currently, the website provides access to historical weather observations of about 7,000 weather stations worldwide. Essentially, Meteostat collects weather and climate data from national weather services and exposes the data through a simple user interface to its audience.
 
-![Daily precipitation totals in Houston, TX during hurricane Harvey in August 2017.](https://media.meteostat.net/insights/hurricane-harvey-prcp.png "Daily precipitation totals in Houston, TX during hurricane Harvey in August 2017.")
+![Daily precipitation totals in Houston, TX during hurricane Harvey in August 2017.](https://media.meteostat.net/insights/2020/10/hurricane-harvey-prcp.png "Daily precipitation totals in Houston, TX during hurricane Harvey in August 2017.")
 
 Meteostat aims to provide open access to as much meteorological data as possible. Therefore, the platform comes with a simple REST API that enables developers to use Meteostat data on their projects.
 

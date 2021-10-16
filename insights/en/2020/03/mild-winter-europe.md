@@ -2,7 +2,7 @@
 topic: Climate
 date: 2020-03-18
 author: Christian Lamprecht
-cover: https://media.meteostat.net/insights/temp-anomaly-winter-2019.png
+cover: https://media.meteostat.net/insights/temp-anomaly-eu.png
 teaser: The trend of increasing temperatures in Europe and the world continues.
 ---
 

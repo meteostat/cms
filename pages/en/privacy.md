@@ -5,8 +5,8 @@ Meteostat strives to handle personal data (hereinafter referred to as "Data") in
 **Responsible for Data Protection:**
 
 Christian Lamprecht
-Plattenseestraße 5
-69168 Wiesloch
+Haagstr. 9B
+61169 Friedberg
 Germany
 
 E-Mail: info@meteostat.net

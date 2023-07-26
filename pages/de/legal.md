@@ -2,8 +2,8 @@
 
 **Meteostat**
 c/o Christian Lamprecht
-Plattenseestraße 5
-69168 Wiesloch
+Haagstr. 9B
+61169 Friedberg
 Deutschland
 
 Telefon: +49 (0) 6222 5714934

@@ -16,8 +16,8 @@ For more information on how Meteostat treats user data, please check our [privac
 
 ## Data Sources
 
-Meteostat uses meteorological data provided by many different organizations. A list of our sources is available [here](https://dev.meteostat.net/sources.html).
+Meteostat uses meteorological data provided by many different organizations. A list of our sources is available [here](https://dev.meteostat.net/providers).
 
 ## Copyright
 
-Meteostat data is available under the terms of the Creative Commons Attribution-NonCommercial 4.0 International Public License (CC BY-NC 4.0). More information on licensing and our terms of service is available [here](https://dev.meteostat.net/terms.html).
+Meteostat data is available under the terms of the Creative Commons Attribution 4.0 International Public License (CC BY 4.0). More information on licensing and our terms of service is available [here](https://dev.meteostat.net/terms).

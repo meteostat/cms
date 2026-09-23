@@ -7,7 +7,7 @@ Meteostat strives to handle personal data (hereinafter referred to as "Data") in
 Christian Lamprecht
 Kurt-Schumacher-Str. 26
 61191 Rosbach v. d. Höhe
-Deutschland
+Germany
 
 E-Mail: info@meteostat.net
 

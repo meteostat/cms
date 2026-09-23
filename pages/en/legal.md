@@ -2,11 +2,11 @@
 
 **Meteostat**
 c/o Christian Lamprecht
-Haagstr. 9B
-61169 Friedberg
+Kurt-Schumacher-Str. 26
+61191 Rosbach v. d. Höhe
 Germany
 
-Telephone: +49 (0) 6222 5714934
+Telephone: +49 (0) 6003 4979858
 E-Mail: info@meteostat.net
 Web: https://meteostat.net
 

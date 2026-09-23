@@ -5,8 +5,8 @@ Meteostat ist bestrebt, mit personenbezogenen Daten (im Folgenden "Daten" genann
 **Verantwortlich für den Datenschutz:**
 
 Christian Lamprecht
-Haagstr. 9B
-61169 Friedberg
+Kurt-Schumacher-Str. 26
+61191 Rosbach v. d. Höhe
 Deutschland
 
 E-Mail: info@meteostat.net
